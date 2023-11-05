@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Surya-Abhinai
-- 👀 I’m interested in Artificial intelligence
+- 👀 I’m interested in Artificial intelligence and data engineering
 - 📫 How to reach me -
 - Linkedin - www.linkedin.com/in/surya-abhinai-126551233
 - Email - abhinayj848430@gmail.com
