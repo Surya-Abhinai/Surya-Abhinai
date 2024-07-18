@@ -2,6 +2,7 @@
 <h3 align="center">Prefinal Year Student at National Institute of Technology Karnataka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-abhinai&label=Profile%20views&color=0e75b6&style=flat" alt="surya-abhinai" /> </p>
+- 📫 I'm currently working in Visual Computing lab , IISC  
 
 - 🌱 I’m currently learning **NLP , Data Engineering tools**
 
